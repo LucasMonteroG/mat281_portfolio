@@ -17,4 +17,8 @@
 
 Las instrucciones de uso se encuentran en [este](setup.md) siguiente archivo. 
 
+### Video Presentación Sistema de Recomendaciones
+
+[video](https://www.youtube.com/watch?v=yLclYsU-QVM&feature=youtu.be)
+
 Para aquellos usuarios de Windows que quieran sacar partido, se recomienda mirar también [este](wsl_ds_toolkit.md) archivo, mostrando un entorno de trabajo con WSL.
